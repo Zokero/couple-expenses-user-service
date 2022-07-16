@@ -1,10 +1,10 @@
-package com.kukit.expenses;
+package com.kukit.platform;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CoupleExpensesApplicationTests {
+class RegistrationApplicationTests {
 
 	@Test
 	void contextLoads() {

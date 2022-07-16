@@ -1,13 +1,13 @@
-package com.kukit.expenses;
+package com.kukit.platform;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CoupleExpensesApplication {
+public class RegistrationApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CoupleExpensesApplication.class, args);
+		SpringApplication.run(RegistrationApplication.class, args);
 	}
 
 }
